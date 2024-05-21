@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ExamenFinalCrisjerry</string>
+    <string name="title">Meter Registration</string>
+    <string name="meter">Meter:</string>
+    <string name="date">Date:</string>
+    <string name="meter_value_hint">Meter Value</string>
+    <string name="date_hint">Date (dd/mm/yyyy)</string>
+    <string name="water">Water</string>
+    <string name="electricity">Electricity</string>
+    <string name="gas">Gas</string>
+    <string name="register_measurement">Register Measurement</string>
+</resources>
